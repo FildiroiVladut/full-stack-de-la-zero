@@ -1,0 +1,16 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Locul tău de joacă pentru exemplele din fișe
+playground/
+
+# Dacă rulezi ceva cu Node aici
+node_modules/
+*.log
+
+# Secrete
+.env
+.env.*
+!.env.example
