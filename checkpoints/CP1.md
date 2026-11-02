@@ -20,7 +20,9 @@
 
 ## Quiz cu Claude
 
-Scor: \_\_ / 10 · De recitit: \_\_\_
+Scor: 6.75 / 10 (2026-11-02, prima încercare) · De recitit: [03/04 Vite și build](../03-ecosistem-js/04-vite-si-build.md), [04/04 Module](../04-javascript/04-module.md), [03/02 npm și pachete](../03-ecosistem-js/02-npm-si-pachete.md), [02/03 API REST](../02-cum-functioneaza-webul/03-api-rest.md), [02/04 Frontend vs backend](../02-cum-functioneaza-webul/04-frontend-vs-backend.md)
+
+Neacoperit la quiz: Git (commit, staging, branch). Intră la refacere.
 
 ## Livrabile
 
