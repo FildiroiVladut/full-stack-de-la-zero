@@ -34,7 +34,7 @@ Neacoperit la quiz: Git (commit, staging, branch). Intră la refacere.
   - [ ] Claude Code logat
 - [ ] Repo-ul ăsta publicat pe GitHub-ul tău, cu Bogdan colaborator.
 - [ ] `js-de-la-zero` clonat în WSL.
-- [ ] Bug-ul din `ziua7/05-inventar.js` reparat (vezi [04-javascript/01-recap-zilele-1-7.md](../04-javascript/01-recap-zilele-1-7.md)), cu un commit care spune ce era greșit.
+- [x] Bug-ul din `ziua7/05-inventar.js` reparat (vezi [04-javascript/01-recap-zilele-1-7.md](../04-javascript/01-recap-zilele-1-7.md)), cu un commit care spune ce era greșit. → [9c9d27a](https://github.com/FildiroiVladut/js-de-la-zero/commit/9c9d27a)
 - [ ] Un `ziua8/` în `js-de-la-zero`, scris **de mână, fără AI**: un script care caută o carte pe Open Library cu `fetch` + `async/await`, tratează erorile (inclusiv `res.ok`) și afișează primele 5 rezultate.
 - [ ] [jurnal.md](../jurnal.md) completat zilnic.
 
