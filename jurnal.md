@@ -13,6 +13,13 @@ Trei rânduri pe zi, scrise seara. Bogdan îl citește înainte de fiecare call.
 
 <!-- Prima intrare aici, cea mai nouă sus. -->
 
+## 2026-11-03 · Ziua 7 · CP1 retake
+- Am făcut: retake la quiz-ul CP1, 8.3/10 (de la 6.75 ieri), am bifat ce am terminat in CP1.md. Am facut si exercitiul ziua8, cel cu fetch din OpenLibrary.
+- Am înțeles: cum se foloseste in practica fetch pe un API.
+- Nu e clar încă: majoritatea din CP1 sunt clare.
+
+---
+
 ## 2026-11-02 · Ziua 6 · CP1
 - Am făcut: Recap la toate fisele din CP1 si quiz-ul de final. Cred ca m-a furat Claude cu niste puncte, dar tot nu as fi ajuns la 8/10 din cauza faptului ca este teorie fara practica, iar dupa o saptmana ma declar multumit de rezultat.
 - Am înțeles: O gramada de lucruri despre dezvoltare, programele folosite si ecosistem cu totul
