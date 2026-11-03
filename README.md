@@ -42,11 +42,11 @@ Din săptămâna 2: 15 minute pe zi de întrebări de interviu din [13-interviur
 
 **Capitole**
 
-- [ ] [00 · Start](00-start/) — metoda, ritmul, cum arată o fișă
-- [ ] [01 · Setup](01-setup/) — WSL, Warp, Git, Node, Bun, VS Code, Claude Code
-- [ ] [02 · Cum funcționează web-ul](02-cum-functioneaza-webul/) — client/server, HTTP, REST, frontend vs backend
-- [ ] [03 · Ecosistemul JS](03-ecosistem-js/) — runtime, npm, Bun, Vite, harta uneltelor
-- [ ] [04 · JavaScript](04-javascript/) — recap + async, module, DOM
+- [x] [00 · Start](00-start/) — metoda, ritmul, cum arată o fișă
+- [x] [01 · Setup](01-setup/) — WSL, Warp, Git, Node, Bun, VS Code, Claude Code
+- [x] [02 · Cum funcționează web-ul](02-cum-functioneaza-webul/) — client/server, HTTP, REST, frontend vs backend
+- [x] [03 · Ecosistemul JS](03-ecosistem-js/) — runtime, npm, Bun, Vite, harta uneltelor
+- [x] [04 · JavaScript](04-javascript/) — recap + async, module, DOM
 - [ ] [05 · TypeScript](05-typescript/) — tipuri, narrowing, generics, zod
 - [ ] [06 · React](06-react/) — componente, state, efecte, routing, date, Next.js
 - [ ] [07 · Backend cu Node și NestJS](07-backend-node-nest/) — server, Nest, validare, Prisma, auth, teste
